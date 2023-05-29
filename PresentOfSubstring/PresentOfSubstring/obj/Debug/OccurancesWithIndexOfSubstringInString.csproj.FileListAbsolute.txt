@@ -1,0 +1,8 @@
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\bin\Debug\PresentOfSubstring.exe.config
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\bin\Debug\PresentOfSubstring.exe
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\bin\Debug\PresentOfSubstring.pdb
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\obj\Debug\OccurancesWithIndexOfSubstringInString.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\obj\Debug\OccurancesWithIndexOfSubstringInString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\obj\Debug\OccurancesWithIndexOfSubstringInString.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\obj\Debug\PresentOfSubstring.exe
+C:\Users\Supraja Konchada\source\repos\PresentOfSubstring\PresentOfSubstring\obj\Debug\PresentOfSubstring.pdb
