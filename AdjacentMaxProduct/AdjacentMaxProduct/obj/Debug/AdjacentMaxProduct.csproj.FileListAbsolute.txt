@@ -1,0 +1,8 @@
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\bin\Debug\AdjacentMaxProduct.exe.config
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\bin\Debug\AdjacentMaxProduct.exe
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\bin\Debug\AdjacentMaxProduct.pdb
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\obj\Debug\AdjacentMaxProduct.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\obj\Debug\AdjacentMaxProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\obj\Debug\AdjacentMaxProduct.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\obj\Debug\AdjacentMaxProduct.exe
+C:\Users\Supraja Konchada\source\repos\AdjacentMaxProduct\AdjacentMaxProduct\obj\Debug\AdjacentMaxProduct.pdb

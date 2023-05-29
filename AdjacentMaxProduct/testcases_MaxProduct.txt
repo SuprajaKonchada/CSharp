@@ -1,0 +1,11 @@
+TestCase #1: 
+Input:
+    number = 1234568987458744574664554
+Output:
+    Max product: 4032 (Greatest product of four adjacent digits in the number- 8*9*8*7)
+
+TestCase #2:
+Input:
+    number = 5555555555555555555555555
+Output:
+    Max product: 625 (Greatest product of four adjacent digits in the number- 5*5*5*5)
